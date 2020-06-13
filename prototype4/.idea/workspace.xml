@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e1a5616-e969-463a-a1d5-8242dd875c02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/AutomotiveShowroom.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/car/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/car/bmw/BmwHatchBag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/car/bmw/BmwKombi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/car/bmw/BmwLimousine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/car/bmw/BmwSedan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/car/bmw/BmwSport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/car/bmw/BmwSuv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/car/factory/BmwFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/car/factory/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/car/util/CarType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/headquarter/Headquarter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/headquarter/HeadquarterFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/headquarter/StatisticalOffice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/order/CompletedOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/order/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/showroom/CarDealer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/showroom/Showroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/UserType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/adapter/OldUserAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/adapter/UserAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/builder/UserBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/iterator/CarArrayIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/iterator/CarIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/iterator/CarListIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/model/IOldUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/model/IUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/model/OldUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/userManager/IUserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/userManager/OldUserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/main/java/user/userManager/UserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/test/java/ApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/test/java/BuilderOrFactoryUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/test/java/CarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/src/test/java/UsersAdapterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/META-INF/AutomotiveShowroom.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/car/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/car/bmw/BmwHatchBag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/car/bmw/BmwKombi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/car/bmw/BmwLimousine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/car/bmw/BmwSedan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/car/bmw/BmwSport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/car/bmw/BmwSuv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/car/factory/BmwFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/car/factory/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/car/util/CarType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/headquarter/Headquarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/headquarter/HeadquarterFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/headquarter/StatisticalOffice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/order/CompletedOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/order/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/showroom/CarDealer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/showroom/Showroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/UserType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/adapter/OldUserAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/adapter/UserAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/builder/UserBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/iterator/CarArrayIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/iterator/CarIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/iterator/CarListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/model/IOldUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/model/IUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/model/OldUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/userManager/IUserManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/userManager/OldUserManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/classes/user/userManager/UserManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/test-classes/ApplicationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/test-classes/BuilderOrFactoryUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/test-classes/CarTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutomotiveShowroom/target/test-classes/UsersAdapterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/deepPrototype/test.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DeepPrototype</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>deepPrototype</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/deepPrototype/ComputerManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/deepPrototype/Processor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/deepPrototype/Ram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/deepPrototype/enums/RamType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/deepPrototype/enums/ProcessorType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/deepPrototype/enums/ComputerType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simplePrototype/OrderManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/simplePrototype/PizzaOrder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PizzaPrototypeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DeepPrototypeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/deepPrototype/Computer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DeepPrototypeTest">
+    <configuration name="DeepPrototypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prototype4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeepPrototypeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaPrototypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prototype4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PizzaPrototypeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DeepPrototypeTest" />
+        <item itemvalue="JUnit.PizzaPrototypeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e1a5616-e969-463a-a1d5-8242dd875c02" name="Default Changelist" comment="" />
+      <created>1590878243265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590878243265</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PizzaPrototypeTest - 2020.05.31 at 01h 19m 56s.xml">
+      <configuration name="PizzaPrototypeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeepPrototypeTest - 2020.05.31 at 01h 20m 05s.xml">
+      <configuration name="DeepPrototypeTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/deepPrototype/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/deepPrototype/Processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deepPrototype/Ram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deepPrototype/enums/ProcessorType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deepPrototype/enums/RamType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deepPrototype/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/simplePrototype/OrderManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/simplePrototype/PizzaOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DeepPrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PizzaPrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deepPrototype/ComputerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/deepPrototype/enums/ComputerType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>prototype4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

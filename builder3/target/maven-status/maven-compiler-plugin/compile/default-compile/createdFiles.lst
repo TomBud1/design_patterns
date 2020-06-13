@@ -1,0 +1,6 @@
+simpleBuilder\BuildingCompany.class
+simpleBuilder\HouseBuilder.class
+simpleBuilder\BridgeBuilder.class
+simpleBuilder\Construction.class
+simpleBuilder\MonumentBuilder.class
+simpleBuilder\ConstructionBuilder.class

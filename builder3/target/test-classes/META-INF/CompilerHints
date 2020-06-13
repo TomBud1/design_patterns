@@ -1,0 +1,7 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,perf/TestBenchmark.build_sedan_car_with_builder
+inline,perf/TestBenchmark.create_sedan_car_with_simple_factory
